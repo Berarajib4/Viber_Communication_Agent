@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Sedan",
+    "synonyms": [
+      "Sedans",
+      "Sedan"
+    ]
+  },
+  {
+    "value": "SUV",
+    "synonyms": [
+      "SUV",
+      "Compact SUV"
+    ]
+  },
+  {
+    "value": "Hatchback",
+    "synonyms": [
+      "Hatchback"
+    ]
+  },
+  {
+    "value": "Crossover",
+    "synonyms": [
+      "Crossovers",
+      "Crossover"
+    ]
+  },
+  {
+    "value": "MPV",
+    "synonyms": [
+      "MPV",
+      "Multi-Purpose Vehicle"
+    ]
+  },
+  {
+    "value": "Station Wagon",
+    "synonyms": [
+      "Station Wagon",
+      "Estate Cars",
+      "Wagon"
+    ]
+  },
+  {
+    "value": "Coupe",
+    "synonyms": [
+      "Coupe"
+    ]
+  },
+  {
+    "value": "Convertibles",
+    "synonyms": [
+      "Convertibles",
+      "Cabriolet",
+      "Spyder"
+    ]
+  },
+  {
+    "value": "Microcars",
+    "synonyms": [
+      "Microcars"
+    ]
+  },
+  {
+    "value": "Limousines",
+    "synonyms": [
+      "Limousines"
+    ]
+  },
+  {
+    "value": "Pick-up trucks",
+    "synonyms": [
+      "Pick-up trucks"
+    ]
+  },
+  {
+    "value": "Minivan",
+    "synonyms": [
+      "Minivan"
+    ]
+  }
+]

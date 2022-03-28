@@ -1,0 +1,9 @@
+{
+  "id": "3eccb0e9-0733-4302-bc21-66ae1d4704f8",
+  "name": "Manufacturing_Year",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

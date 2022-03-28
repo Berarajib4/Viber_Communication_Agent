@@ -1,0 +1,9 @@
+{
+  "id": "5320c520-1c45-42f4-9587-ddf9ae7e9bdb",
+  "name": "MobileNum",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

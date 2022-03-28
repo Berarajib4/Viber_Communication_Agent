@@ -1,0 +1,9 @@
+{
+  "id": "b26b031d-f425-49e9-a729-22f316e37a41",
+  "name": "EngineChassisNumber",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

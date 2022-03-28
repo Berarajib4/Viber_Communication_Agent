@@ -1,0 +1,9 @@
+{
+  "id": "b7ce2394-185c-4d31-a300-aba7c1f32084",
+  "name": "PolicyNumber",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

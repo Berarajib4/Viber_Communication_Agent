@@ -1,0 +1,30 @@
+[
+  {
+    "value": "Petrol",
+    "synonyms": [
+      "Petrol",
+      "2"
+    ]
+  },
+  {
+    "value": "Diesel",
+    "synonyms": [
+      "Diesel",
+      "1"
+    ]
+  },
+  {
+    "value": "CNG",
+    "synonyms": [
+      "CNG",
+      "3"
+    ]
+  },
+  {
+    "value": "Electric",
+    "synonyms": [
+      "Electric",
+      "4"
+    ]
+  }
+]

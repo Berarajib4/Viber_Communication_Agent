@@ -1,0 +1,9 @@
+{
+  "id": "e20f7612-af68-4820-bc4d-50e7d4ac6371",
+  "name": "Model_Name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

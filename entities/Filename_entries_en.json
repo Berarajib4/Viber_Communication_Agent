@@ -1,0 +1,8 @@
+[
+  {
+    "value": "[^\\\\s]+(\\\\.(?i)(jpe?g|png|gif|bmp))$",
+    "synonyms": [
+      "[^\\\\s]+(\\\\.(?i)(jpe?g|png|gif|bmp))$"
+    ]
+  }
+]

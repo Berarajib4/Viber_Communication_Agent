@@ -1,0 +1,9 @@
+{
+  "id": "3787bf5c-3b7c-4c2e-8c35-c02a7ce2f4f1",
+  "name": "Body_Type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "e75284d3-b39b-460e-965c-022d4c6421eb",
+  "name": "VehicleRegNum",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

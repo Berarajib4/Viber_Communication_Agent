@@ -1,0 +1,9 @@
+{
+  "id": "9f555463-91fa-4f43-ba93-7884a0e2fff6",
+  "name": "Fuel_Type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

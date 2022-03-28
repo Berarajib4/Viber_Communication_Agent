@@ -1,0 +1,3167 @@
+[
+  {
+    "value": "Toyota",
+    "synonyms": [
+      "Toyota",
+      "1",
+      "1.Toyota"
+    ]
+  },
+  {
+    "value": "Honda",
+    "synonyms": [
+      "Honda",
+      "6"
+    ]
+  },
+  {
+    "value": "Hyundai",
+    "synonyms": [
+      "Hyundai",
+      "7"
+    ]
+  },
+  {
+    "value": "Tata",
+    "synonyms": [
+      "Tata",
+      "8"
+    ]
+  },
+  {
+    "value": "Suzuki",
+    "synonyms": [
+      "Suzuki",
+      "9"
+    ]
+  },
+  {
+    "value": "Ford",
+    "synonyms": [
+      "Ford",
+      "5",
+      "5.Ford"
+    ]
+  },
+  {
+    "value": "Audi",
+    "synonyms": [
+      "Audi",
+      "2",
+      "2.Audi"
+    ]
+  },
+  {
+    "value": "Bmw",
+    "synonyms": [
+      "Bmw",
+      "3",
+      "3.BMW"
+    ]
+  },
+  {
+    "value": "Mercedes",
+    "synonyms": [
+      "Mercedees-Benz",
+      "Benz",
+      "10",
+      "Mercedes"
+    ]
+  },
+  {
+    "value": "Skoda",
+    "synonyms": [
+      "Skoda",
+      "4",
+      "4.Skoda"
+    ]
+  },
+  {
+    "value": "Jaguar",
+    "synonyms": [
+      "Jaguar",
+      "11"
+    ]
+  },
+  {
+    "value": "Nissan",
+    "synonyms": [
+      "Nissan",
+      "12"
+    ]
+  },
+  {
+    "value": "Volvo",
+    "synonyms": [
+      "Volvo",
+      "Volvo Car Corp.",
+      "13"
+    ]
+  },
+  {
+    "value": "Volkswagen",
+    "synonyms": [
+      "Volkswagen",
+      "14"
+    ]
+  },
+  {
+    "value": "Seat",
+    "synonyms": [
+      "Seat"
+    ]
+  },
+  {
+    "value": "Porsche",
+    "synonyms": [
+      "Porsche",
+      "15"
+    ]
+  },
+  {
+    "value": "Peugeot",
+    "synonyms": [
+      "Peugeot"
+    ]
+  },
+  {
+    "value": "Opel",
+    "synonyms": [
+      "Opel",
+      "20"
+    ]
+  },
+  {
+    "value": "Vauxhall",
+    "synonyms": [
+      "Vauxhall"
+    ]
+  },
+  {
+    "value": "Citroen",
+    "synonyms": [
+      "Citroen"
+    ]
+  },
+  {
+    "value": "DS",
+    "synonyms": [
+      "DS"
+    ]
+  },
+  {
+    "value": "Renault",
+    "synonyms": [
+      "Renault",
+      "16"
+    ]
+  },
+  {
+    "value": "Dacia",
+    "synonyms": [
+      "Dacia"
+    ]
+  },
+  {
+    "value": "Lada",
+    "synonyms": [
+      "Lada"
+    ]
+  },
+  {
+    "value": "Kia",
+    "synonyms": [
+      "Kia",
+      "17"
+    ]
+  },
+  {
+    "value": "Jeep",
+    "synonyms": [
+      "Jeep",
+      "18"
+    ]
+  },
+  {
+    "value": "Land Rover",
+    "synonyms": [
+      "Land Rover",
+      "19"
+    ]
+  },
+  {
+    "value": "A K AUTO ELECTRICAL",
+    "synonyms": [
+      "A K AUTO ELECTRICAL"
+    ]
+  },
+  {
+    "value": "A P I  MOTORS PVT LTD",
+    "synonyms": [
+      "A P I  MOTORS PVT LTD"
+    ]
+  },
+  {
+    "value": "A.P.I. MOTORS PRIVATE LIMITED",
+    "synonyms": [
+      "A.P.I. MOTORS PRIVATE LIMITED"
+    ]
+  },
+  {
+    "value": "ACE",
+    "synonyms": [
+      "ACE"
+    ]
+  },
+  {
+    "value": "ACTION CONSTRUTION EQUIPMENTS LTD (ACE)",
+    "synonyms": [
+      "ACTION CONSTRUTION EQUIPMENTS LTD (ACE)"
+    ]
+  },
+  {
+    "value": "AGRIKING TRACTORS",
+    "synonyms": [
+      "AGRIKING TRACTORS"
+    ]
+  },
+  {
+    "value": "AGROLUX",
+    "synonyms": [
+      "AGROLUX"
+    ]
+  },
+  {
+    "value": "AJAX FIORI",
+    "synonyms": [
+      "AJAX FIORI"
+    ]
+  },
+  {
+    "value": "ALLWYN PUSHPAK",
+    "synonyms": [
+      "ALLWYN PUSHPAK"
+    ]
+  },
+  {
+    "value": "ALPHA MOBILE",
+    "synonyms": [
+      "ALPHA MOBILE"
+    ]
+  },
+  {
+    "value": "ALWYN NISSAN",
+    "synonyms": [
+      "ALWYN NISSAN"
+    ]
+  },
+  {
+    "value": "AMBAJI AUTO",
+    "synonyms": [
+      "AMBAJI AUTO"
+    ]
+  },
+  {
+    "value": "AMERICAN HOIST",
+    "synonyms": [
+      "AMERICAN HOIST"
+    ]
+  },
+  {
+    "value": "AMPERE",
+    "synonyms": [
+      "AMPERE"
+    ]
+  },
+  {
+    "value": "AMW",
+    "synonyms": [
+      "AMW"
+    ]
+  },
+  {
+    "value": "APOLLO",
+    "synonyms": [
+      "APOLLO"
+    ]
+  },
+  {
+    "value": "APRILIA",
+    "synonyms": [
+      "APRILIA",
+      "23"
+    ]
+  },
+  {
+    "value": "ARJUN",
+    "synonyms": [
+      "ARJUN"
+    ]
+  },
+  {
+    "value": "ASH",
+    "synonyms": [
+      "ASH"
+    ]
+  },
+  {
+    "value": "ASHA EXIM",
+    "synonyms": [
+      "ASHA EXIM"
+    ]
+  },
+  {
+    "value": "ASHOK LEYLAND",
+    "synonyms": [
+      "ASHOK LEYLAND",
+      "24"
+    ]
+  },
+  {
+    "value": "ASTON MARTIN",
+    "synonyms": [
+      "ASTON MARTIN"
+    ]
+  },
+  {
+    "value": "ATLAS COPCO",
+    "synonyms": [
+      "ATLAS COPCO"
+    ]
+  },
+  {
+    "value": "ATTOLENT AUTOGROUP",
+    "synonyms": [
+      "ATTOLENT AUTOGROUP"
+    ]
+  },
+  {
+    "value": "ATUL AUTO",
+    "synonyms": [
+      "ATUL AUTO"
+    ]
+  },
+  {
+    "value": "ATUL AUTO.",
+    "synonyms": [
+      "ATUL AUTO."
+    ]
+  },
+  {
+    "value": "AUDI",
+    "synonyms": [
+      "AUDI"
+    ]
+  },
+  {
+    "value": "AVTAR AGRO",
+    "synonyms": [
+      "AVTAR AGRO"
+    ]
+  },
+  {
+    "value": "AXLE",
+    "synonyms": [
+      "AXLE"
+    ]
+  },
+  {
+    "value": "BAAJ",
+    "synonyms": [
+      "BAAJ"
+    ]
+  },
+  {
+    "value": "BAJAJ",
+    "synonyms": [
+      "BAJAJ"
+    ]
+  },
+  {
+    "value": "BAJAJ AUTO",
+    "synonyms": [
+      "BAJAJ AUTO"
+    ]
+  },
+  {
+    "value": "BAJAJ TEMPO",
+    "synonyms": [
+      "BAJAJ TEMPO"
+    ]
+  },
+  {
+    "value": "BAJAJ TEMPO LTD",
+    "synonyms": [
+      "BAJAJ TEMPO LTD"
+    ]
+  },
+  {
+    "value": "BALJEET",
+    "synonyms": [
+      "BALJEET"
+    ]
+  },
+  {
+    "value": "BALKAR",
+    "synonyms": [
+      "BALKAR"
+    ]
+  },
+  {
+    "value": "BANSURI AUTO",
+    "synonyms": [
+      "BANSURI AUTO"
+    ]
+  },
+  {
+    "value": "BANTAM 788",
+    "synonyms": [
+      "BANTAM 788"
+    ]
+  },
+  {
+    "value": "BATTERY RICKSHAW SANGH",
+    "synonyms": [
+      "BATTERY RICKSHAW SANGH"
+    ]
+  },
+  {
+    "value": "BEML",
+    "synonyms": [
+      "BEML"
+    ]
+  },
+  {
+    "value": "BENTLEY",
+    "synonyms": [
+      "BENTLEY",
+      "21"
+    ]
+  },
+  {
+    "value": "BESTWAY AGENCY",
+    "synonyms": [
+      "BESTWAY AGENCY"
+    ]
+  },
+  {
+    "value": "BHAG AGRO",
+    "synonyms": [
+      "BHAG AGRO"
+    ]
+  },
+  {
+    "value": "BHARAT BENZ",
+    "synonyms": [
+      "BHARAT BENZ"
+    ]
+  },
+  {
+    "value": "BHARAT COMBINES",
+    "synonyms": [
+      "BHARAT COMBINES"
+    ]
+  },
+  {
+    "value": "BHURJEE",
+    "synonyms": [
+      "BHURJEE"
+    ]
+  },
+  {
+    "value": "BHURJEE MOTORS",
+    "synonyms": [
+      "BHURJEE MOTORS"
+    ]
+  },
+  {
+    "value": "BIG BULL TRADER PVT LTD",
+    "synonyms": [
+      "BIG BULL TRADER PVT LTD"
+    ]
+  },
+  {
+    "value": "BMW",
+    "synonyms": [
+      "BMW"
+    ]
+  },
+  {
+    "value": "BRITANNIA",
+    "synonyms": [
+      "BRITANNIA"
+    ]
+  },
+  {
+    "value": "BSMS AGRICULTURE",
+    "synonyms": [
+      "BSMS AGRICULTURE"
+    ]
+  },
+  {
+    "value": "BUCYRUS",
+    "synonyms": [
+      "BUCYRUS"
+    ]
+  },
+  {
+    "value": "BUGATTI",
+    "synonyms": [
+      "BUGATTI"
+    ]
+  },
+  {
+    "value": "BUICK",
+    "synonyms": [
+      "BUICK"
+    ]
+  },
+  {
+    "value": "BULL MACHINE INDIA PVT LTD",
+    "synonyms": [
+      "BULL MACHINE INDIA PVT LTD"
+    ]
+  },
+  {
+    "value": "BYELAURUS",
+    "synonyms": [
+      "BYELAURUS"
+    ]
+  },
+  {
+    "value": "C M OVERSEAS",
+    "synonyms": [
+      "C M OVERSEAS"
+    ]
+  },
+  {
+    "value": "CADILLAC",
+    "synonyms": [
+      "CADILLAC"
+    ]
+  },
+  {
+    "value": "CAPARO AUTOTECH LTD",
+    "synonyms": [
+      "CAPARO AUTOTECH LTD"
+    ]
+  },
+  {
+    "value": "CAPOL",
+    "synonyms": [
+      "CAPOL"
+    ]
+  },
+  {
+    "value": "CAPTAIN TRACTORS",
+    "synonyms": [
+      "CAPTAIN TRACTORS"
+    ]
+  },
+  {
+    "value": "CARGOTEC",
+    "synonyms": [
+      "CARGOTEC"
+    ]
+  },
+  {
+    "value": "CASE CONSTRUCTION",
+    "synonyms": [
+      "CASE CONSTRUCTION"
+    ]
+  },
+  {
+    "value": "CASE NEW HOLLAND",
+    "synonyms": [
+      "CASE NEW HOLLAND"
+    ]
+  },
+  {
+    "value": "CAT",
+    "synonyms": [
+      "CAT"
+    ]
+  },
+  {
+    "value": "CATERPILLAR",
+    "synonyms": [
+      "CATERPILLAR"
+    ]
+  },
+  {
+    "value": "CEEON INDIA",
+    "synonyms": [
+      "CEEON INDIA"
+    ]
+  },
+  {
+    "value": "CHERRY",
+    "synonyms": [
+      "CHERRY"
+    ]
+  },
+  {
+    "value": "CHEVROLET",
+    "synonyms": [
+      "CHEVROLET"
+    ]
+  },
+  {
+    "value": "CHOWGULE \u0026 CO",
+    "synonyms": [
+      "CHOWGULE \u0026 CO"
+    ]
+  },
+  {
+    "value": "CHRYSLER",
+    "synonyms": [
+      "CHRYSLER"
+    ]
+  },
+  {
+    "value": "CIMC",
+    "synonyms": [
+      "CIMC"
+    ]
+  },
+  {
+    "value": "CITY LIFE",
+    "synonyms": [
+      "CITY LIFE"
+    ]
+  },
+  {
+    "value": "CLAAS INDIA",
+    "synonyms": [
+      "CLAAS INDIA"
+    ]
+  },
+  {
+    "value": "CLARK",
+    "synonyms": [
+      "CLARK"
+    ]
+  },
+  {
+    "value": "CLEANWORLD EQUIPMENT PVT",
+    "synonyms": [
+      "CLEANWORLD EQUIPMENT PVT"
+    ]
+  },
+  {
+    "value": "CNHTC",
+    "synonyms": [
+      "CNHTC"
+    ]
+  },
+  {
+    "value": "COMBILIFT",
+    "synonyms": [
+      "COMBILIFT"
+    ]
+  },
+  {
+    "value": "CONTINENTAL ENGINES LIMITED",
+    "synonyms": [
+      "CONTINENTAL ENGINES LIMITED"
+    ]
+  },
+  {
+    "value": "CONTINENTAL ENGINES LTD",
+    "synonyms": [
+      "CONTINENTAL ENGINES LTD"
+    ]
+  },
+  {
+    "value": "DAEWOO",
+    "synonyms": [
+      "DAEWOO"
+    ]
+  },
+  {
+    "value": "DAIHATSU",
+    "synonyms": [
+      "DAIHATSU"
+    ]
+  },
+  {
+    "value": "DAIMLER",
+    "synonyms": [
+      "DAIMLER"
+    ]
+  },
+  {
+    "value": "DALIAN",
+    "synonyms": [
+      "DALIAN"
+    ]
+  },
+  {
+    "value": "DASMESH",
+    "synonyms": [
+      "DASMESH"
+    ]
+  },
+  {
+    "value": "DATSUN",
+    "synonyms": [
+      "DATSUN"
+    ]
+  },
+  {
+    "value": "DAVE EXIM (P) LTD",
+    "synonyms": [
+      "DAVE EXIM (P) LTD"
+    ]
+  },
+  {
+    "value": "DELHI AUTOMOBILE",
+    "synonyms": [
+      "DELHI AUTOMOBILE"
+    ]
+  },
+  {
+    "value": "DEMAG CRANES",
+    "synonyms": [
+      "DEMAG CRANES"
+    ]
+  },
+  {
+    "value": "DEUTZ FAHR",
+    "synonyms": [
+      "DEUTZ FAHR"
+    ]
+  },
+  {
+    "value": "DEV AGRO INDUSTRIES",
+    "synonyms": [
+      "DEV AGRO INDUSTRIES"
+    ]
+  },
+  {
+    "value": "DFAalied",
+    "synonyms": [
+      "DFAalied"
+    ]
+  },
+  {
+    "value": "DHIMAN",
+    "synonyms": [
+      "DHIMAN"
+    ]
+  },
+  {
+    "value": "DILAVAR AUTO",
+    "synonyms": [
+      "DILAVAR AUTO"
+    ]
+  },
+  {
+    "value": "DIVANSU AUTOMOBILES LTD",
+    "synonyms": [
+      "DIVANSU AUTOMOBILES LTD"
+    ]
+  },
+  {
+    "value": "DODGE",
+    "synonyms": [
+      "DODGE"
+    ]
+  },
+  {
+    "value": "DONGFENG",
+    "synonyms": [
+      "DONGFENG"
+    ]
+  },
+  {
+    "value": "DOOSAN",
+    "synonyms": [
+      "DOOSAN"
+    ]
+  },
+  {
+    "value": "DSK BENELLI",
+    "synonyms": [
+      "DSK BENELLI"
+    ]
+  },
+  {
+    "value": "DSR AUTOMOTIVES",
+    "synonyms": [
+      "DSR AUTOMOTIVES"
+    ]
+  },
+  {
+    "value": "DUCATI",
+    "synonyms": [
+      "DUCATI"
+    ]
+  },
+  {
+    "value": "DULEVO",
+    "synonyms": [
+      "DULEVO"
+    ]
+  },
+  {
+    "value": "DYS IMPEX PVT LTD",
+    "synonyms": [
+      "DYS IMPEX PVT LTD"
+    ]
+  },
+  {
+    "value": "EICHER",
+    "synonyms": [
+      "EICHER"
+    ]
+  },
+  {
+    "value": "EICHER MOTORS",
+    "synonyms": [
+      "EICHER MOTORS"
+    ]
+  },
+  {
+    "value": "EICHER POLARIS",
+    "synonyms": [
+      "EICHER POLARIS"
+    ]
+  },
+  {
+    "value": "EICHER TRACTORS",
+    "synonyms": [
+      "EICHER TRACTORS"
+    ]
+  },
+  {
+    "value": "EIDER MOTORS",
+    "synonyms": [
+      "EIDER MOTORS"
+    ]
+  },
+  {
+    "value": "EIMCO ELECON",
+    "synonyms": [
+      "EIMCO ELECON"
+    ]
+  },
+  {
+    "value": "ELECTROTHERM INDIA LTD",
+    "synonyms": [
+      "ELECTROTHERM INDIA LTD"
+    ]
+  },
+  {
+    "value": "ELGIN SWEEPER COMPANY",
+    "synonyms": [
+      "ELGIN SWEEPER COMPANY"
+    ]
+  },
+  {
+    "value": "ESCORTS CONSTRUCTION EQUIPMENT",
+    "synonyms": [
+      "ESCORTS CONSTRUCTION EQUIPMENT"
+    ]
+  },
+  {
+    "value": "ESCORTS LTD",
+    "synonyms": [
+      "ESCORTS LTD"
+    ]
+  },
+  {
+    "value": "ESCORTS LTD.",
+    "synonyms": [
+      "ESCORTS LTD."
+    ]
+  },
+  {
+    "value": "EXCAVATOR",
+    "synonyms": [
+      "EXCAVATOR"
+    ]
+  },
+  {
+    "value": "EZGO",
+    "synonyms": [
+      "EZGO"
+    ]
+  },
+  {
+    "value": "FARGO",
+    "synonyms": [
+      "FARGO"
+    ]
+  },
+  {
+    "value": "FARMER TRACTOR",
+    "synonyms": [
+      "FARMER TRACTOR"
+    ]
+  },
+  {
+    "value": "FERRARI",
+    "synonyms": [
+      "FERRARI",
+      "25"
+    ]
+  },
+  {
+    "value": "FIAT",
+    "synonyms": [
+      "FIAT"
+    ]
+  },
+  {
+    "value": "FIELD MARSHAL",
+    "synonyms": [
+      "FIELD MARSHAL"
+    ]
+  },
+  {
+    "value": "FORCE",
+    "synonyms": [
+      "FORCE"
+    ]
+  },
+  {
+    "value": "FORCE MOTORS",
+    "synonyms": [
+      "FORCE MOTORS"
+    ]
+  },
+  {
+    "value": "FORD",
+    "synonyms": [
+      "FORD"
+    ]
+  },
+  {
+    "value": "FORKLIFT",
+    "synonyms": [
+      "FORKLIFT"
+    ]
+  },
+  {
+    "value": "FOTON",
+    "synonyms": [
+      "FOTON"
+    ]
+  },
+  {
+    "value": "FRANK .D VELDT",
+    "synonyms": [
+      "FRANK .D VELDT"
+    ]
+  },
+  {
+    "value": "FRANK D VELDT",
+    "synonyms": [
+      "FRANK D VELDT"
+    ]
+  },
+  {
+    "value": "FRUHAUF",
+    "synonyms": [
+      "FRUHAUF"
+    ]
+  },
+  {
+    "value": "G. K. RICKSHAW",
+    "synonyms": [
+      "G. K. RICKSHAW"
+    ]
+  },
+  {
+    "value": "GAMZEN PLAST",
+    "synonyms": [
+      "GAMZEN PLAST"
+    ]
+  },
+  {
+    "value": "GEHL COMPANY",
+    "synonyms": [
+      "GEHL COMPANY"
+    ]
+  },
+  {
+    "value": "GENERAL MOTORS",
+    "synonyms": [
+      "GENERAL MOTORS",
+      "22"
+    ]
+  },
+  {
+    "value": "GENERATOR",
+    "synonyms": [
+      "GENERATOR"
+    ]
+  },
+  {
+    "value": "GENIE",
+    "synonyms": [
+      "GENIE"
+    ]
+  },
+  {
+    "value": "GILL AGRICULTURE WORKS",
+    "synonyms": [
+      "GILL AGRICULTURE WORKS"
+    ]
+  },
+  {
+    "value": "GILL PREET AGRO",
+    "synonyms": [
+      "GILL PREET AGRO"
+    ]
+  },
+  {
+    "value": "GLOBAL",
+    "synonyms": [
+      "GLOBAL"
+    ]
+  },
+  {
+    "value": "GLOBAL AUTOMOBILES PVT LTD",
+    "synonyms": [
+      "GLOBAL AUTOMOBILES PVT LTD"
+    ]
+  },
+  {
+    "value": "GMMCO CATERPILLAR",
+    "synonyms": [
+      "GMMCO CATERPILLAR"
+    ]
+  },
+  {
+    "value": "GODREJ \u0026 BOYCE",
+    "synonyms": [
+      "GODREJ \u0026 BOYCE"
+    ]
+  },
+  {
+    "value": "GOEL TEMPO",
+    "synonyms": [
+      "GOEL TEMPO"
+    ]
+  },
+  {
+    "value": "GOEL TEMPO.",
+    "synonyms": [
+      "GOEL TEMPO."
+    ]
+  },
+  {
+    "value": "GOENKA ELECTRIC MOTOR VEHICLES PVT LTD",
+    "synonyms": [
+      "GOENKA ELECTRIC MOTOR VEHICLES PVT LTD"
+    ]
+  },
+  {
+    "value": "GOLF",
+    "synonyms": [
+      "GOLF"
+    ]
+  },
+  {
+    "value": "GONEKA ELECTRIC MOTOR VEHICLE PVT LTD",
+    "synonyms": [
+      "GONEKA ELECTRIC MOTOR VEHICLE PVT LTD"
+    ]
+  },
+  {
+    "value": "GOPAL AUTO MOTORS (P) LTD",
+    "synonyms": [
+      "GOPAL AUTO MOTORS (P) LTD"
+    ]
+  },
+  {
+    "value": "GOTTWALD PORT",
+    "synonyms": [
+      "GOTTWALD PORT"
+    ]
+  },
+  {
+    "value": "GREAT AUTOMOTIVE",
+    "synonyms": [
+      "GREAT AUTOMOTIVE"
+    ]
+  },
+  {
+    "value": "GREAVES COTTON",
+    "synonyms": [
+      "GREAVES COTTON"
+    ]
+  },
+  {
+    "value": "GREAVES LTD",
+    "synonyms": [
+      "GREAVES LTD"
+    ]
+  },
+  {
+    "value": "GREEN KAIKETSU AUTOMOTIVE INDIA PVT LTD",
+    "synonyms": [
+      "GREEN KAIKETSU AUTOMOTIVE INDIA PVT LTD"
+    ]
+  },
+  {
+    "value": "GROMAX AGRI EQUIPMENT LTD",
+    "synonyms": [
+      "GROMAX AGRI EQUIPMENT LTD"
+    ]
+  },
+  {
+    "value": "GROVE",
+    "synonyms": [
+      "GROVE"
+    ]
+  },
+  {
+    "value": "GUJARAT TRACTOR",
+    "synonyms": [
+      "GUJARAT TRACTOR"
+    ]
+  },
+  {
+    "value": "GURDIAL AGRO",
+    "synonyms": [
+      "GURDIAL AGRO"
+    ]
+  },
+  {
+    "value": "GURM AGRICULTURE",
+    "synonyms": [
+      "GURM AGRICULTURE"
+    ]
+  },
+  {
+    "value": "GURU NANAK AGRI",
+    "synonyms": [
+      "GURU NANAK AGRI"
+    ]
+  },
+  {
+    "value": "HAMMER",
+    "synonyms": [
+      "HAMMER"
+    ]
+  },
+  {
+    "value": "HANGCHA",
+    "synonyms": [
+      "HANGCHA"
+    ]
+  },
+  {
+    "value": "HARDEV AGRO TECH",
+    "synonyms": [
+      "HARDEV AGRO TECH"
+    ]
+  },
+  {
+    "value": "HARISONS COMBINE",
+    "synonyms": [
+      "HARISONS COMBINE"
+    ]
+  },
+  {
+    "value": "HARLEY DAVIDSON",
+    "synonyms": [
+      "HARLEY DAVIDSON"
+    ]
+  },
+  {
+    "value": "HAVAL",
+    "synonyms": [
+      "HAVAL"
+    ]
+  },
+  {
+    "value": "HERCULES CRANE",
+    "synonyms": [
+      "HERCULES CRANE"
+    ]
+  },
+  {
+    "value": "HERO",
+    "synonyms": [
+      "HERO"
+    ]
+  },
+  {
+    "value": "HERO ELECTRIC",
+    "synonyms": [
+      "HERO ELECTRIC"
+    ]
+  },
+  {
+    "value": "HERO HONDA",
+    "synonyms": [
+      "HERO HONDA"
+    ]
+  },
+  {
+    "value": "HERO MOTOCORP",
+    "synonyms": [
+      "HERO MOTOCORP"
+    ]
+  },
+  {
+    "value": "HIND AGRO",
+    "synonyms": [
+      "HIND AGRO"
+    ]
+  },
+  {
+    "value": "HIND AGRO INDUSTRIES",
+    "synonyms": [
+      "HIND AGRO INDUSTRIES"
+    ]
+  },
+  {
+    "value": "HINDUSTAN MOTORS",
+    "synonyms": [
+      "HINDUSTAN MOTORS"
+    ]
+  },
+  {
+    "value": "HINO",
+    "synonyms": [
+      "HINO"
+    ]
+  },
+  {
+    "value": "HIRA AGRO",
+    "synonyms": [
+      "HIRA AGRO"
+    ]
+  },
+  {
+    "value": "HIREPOOL",
+    "synonyms": [
+      "HIREPOOL"
+    ]
+  },
+  {
+    "value": "HITACHI",
+    "synonyms": [
+      "HITACHI"
+    ]
+  },
+  {
+    "value": "HMT TRACTORS",
+    "synonyms": [
+      "HMT TRACTORS"
+    ]
+  },
+  {
+    "value": "HMV CONSTRUCTION",
+    "synonyms": [
+      "HMV CONSTRUCTION"
+    ]
+  },
+  {
+    "value": "HOLDEN",
+    "synonyms": [
+      "HOLDEN"
+    ]
+  },
+  {
+    "value": "HONDA",
+    "synonyms": [
+      "HONDA"
+    ]
+  },
+  {
+    "value": "HONDA SCOOTER",
+    "synonyms": [
+      "HONDA SCOOTER"
+    ]
+  },
+  {
+    "value": "HONDA.",
+    "synonyms": [
+      "HONDA."
+    ]
+  },
+  {
+    "value": "HOOGHLY MOTORS PVT LTD",
+    "synonyms": [
+      "HOOGHLY MOTORS PVT LTD"
+    ]
+  },
+  {
+    "value": "HOP MOTOR",
+    "synonyms": [
+      "HOP MOTOR"
+    ]
+  },
+  {
+    "value": "HOVEL CYLINDER PVT LTD",
+    "synonyms": [
+      "HOVEL CYLINDER PVT LTD"
+    ]
+  },
+  {
+    "value": "HOWO",
+    "synonyms": [
+      "HOWO"
+    ]
+  },
+  {
+    "value": "HUMMER",
+    "synonyms": [
+      "HUMMER"
+    ]
+  },
+  {
+    "value": "HYDRA CRANES",
+    "synonyms": [
+      "HYDRA CRANES"
+    ]
+  },
+  {
+    "value": "HYOSUNG",
+    "synonyms": [
+      "HYOSUNG"
+    ]
+  },
+  {
+    "value": "HYUNDAI",
+    "synonyms": [
+      "HYUNDAI"
+    ]
+  },
+  {
+    "value": "ICML",
+    "synonyms": [
+      "ICML"
+    ]
+  },
+  {
+    "value": "INDOFARM",
+    "synonyms": [
+      "INDOFARM"
+    ]
+  },
+  {
+    "value": "INDUS",
+    "synonyms": [
+      "INDUS"
+    ]
+  },
+  {
+    "value": "INFINITI",
+    "synonyms": [
+      "INFINITI"
+    ]
+  },
+  {
+    "value": "INGERSOLL RAND",
+    "synonyms": [
+      "INGERSOLL RAND"
+    ]
+  },
+  {
+    "value": "INGERSOLL-RAND",
+    "synonyms": [
+      "INGERSOLL-RAND"
+    ]
+  },
+  {
+    "value": "INTERNATIONAL",
+    "synonyms": [
+      "INTERNATIONAL"
+    ]
+  },
+  {
+    "value": "INTERNATIONAL TRACTORS LTD",
+    "synonyms": [
+      "INTERNATIONAL TRACTORS LTD"
+    ]
+  },
+  {
+    "value": "ISUZU",
+    "synonyms": [
+      "ISUZU"
+    ]
+  },
+  {
+    "value": "JAC",
+    "synonyms": [
+      "JAC"
+    ]
+  },
+  {
+    "value": "JAGUAR",
+    "synonyms": [
+      "JAGUAR"
+    ]
+  },
+  {
+    "value": "JANGID",
+    "synonyms": [
+      "JANGID"
+    ]
+  },
+  {
+    "value": "JAY GANESH",
+    "synonyms": [
+      "JAY GANESH"
+    ]
+  },
+  {
+    "value": "JAY KHODIYAR",
+    "synonyms": [
+      "JAY KHODIYAR"
+    ]
+  },
+  {
+    "value": "JCB CRANE",
+    "synonyms": [
+      "JCB CRANE"
+    ]
+  },
+  {
+    "value": "JCB INDIA",
+    "synonyms": [
+      "JCB INDIA"
+    ]
+  },
+  {
+    "value": "JCBL",
+    "synonyms": [
+      "JCBL"
+    ]
+  },
+  {
+    "value": "JEEP",
+    "synonyms": [
+      "JEEP"
+    ]
+  },
+  {
+    "value": "JESSOP \u0026 CO",
+    "synonyms": [
+      "JESSOP \u0026 CO"
+    ]
+  },
+  {
+    "value": "JEZZA MOTORS",
+    "synonyms": [
+      "JEZZA MOTORS"
+    ]
+  },
+  {
+    "value": "JIELI",
+    "synonyms": [
+      "JIELI"
+    ]
+  },
+  {
+    "value": "JIJO ELECTRIC WHEELS PVT LTD",
+    "synonyms": [
+      "JIJO ELECTRIC WHEELS PVT LTD"
+    ]
+  },
+  {
+    "value": "JLG INDUSTRIES",
+    "synonyms": [
+      "JLG INDUSTRIES"
+    ]
+  },
+  {
+    "value": "JOGINDER SATYA",
+    "synonyms": [
+      "JOGINDER SATYA"
+    ]
+  },
+  {
+    "value": "JOGINDER SATYA AUTO",
+    "synonyms": [
+      "JOGINDER SATYA AUTO"
+    ]
+  },
+  {
+    "value": "JOHN DEERE",
+    "synonyms": [
+      "JOHN DEERE"
+    ]
+  },
+  {
+    "value": "JOHNSTON SWEEPERS",
+    "synonyms": [
+      "JOHNSTON SWEEPERS"
+    ]
+  },
+  {
+    "value": "K S AGRICULTURAL",
+    "synonyms": [
+      "K S AGRICULTURAL"
+    ]
+  },
+  {
+    "value": "KAASA RAMA COMBINES PVT LTD",
+    "synonyms": [
+      "KAASA RAMA COMBINES PVT LTD"
+    ]
+  },
+  {
+    "value": "KALMAR",
+    "synonyms": [
+      "KALMAR"
+    ]
+  },
+  {
+    "value": "KALSI ENG",
+    "synonyms": [
+      "KALSI ENG"
+    ]
+  },
+  {
+    "value": "KAMAZ VECTRA",
+    "synonyms": [
+      "KAMAZ VECTRA"
+    ]
+  },
+  {
+    "value": "KAMAZ VECTRA MOTORS LTD",
+    "synonyms": [
+      "KAMAZ VECTRA MOTORS LTD"
+    ]
+  },
+  {
+    "value": "KARTAR AGRO",
+    "synonyms": [
+      "KARTAR AGRO"
+    ]
+  },
+  {
+    "value": "KATO",
+    "synonyms": [
+      "KATO"
+    ]
+  },
+  {
+    "value": "KATO MOBILE CRANES",
+    "synonyms": [
+      "KATO MOBILE CRANES"
+    ]
+  },
+  {
+    "value": "KATO WORKS",
+    "synonyms": [
+      "KATO WORKS"
+    ]
+  },
+  {
+    "value": "KAWASAKI",
+    "synonyms": [
+      "KAWASAKI"
+    ]
+  },
+  {
+    "value": "KAWASAKI BAJAJ",
+    "synonyms": [
+      "KAWASAKI BAJAJ"
+    ]
+  },
+  {
+    "value": "KAYEMEL",
+    "synonyms": [
+      "KAYEMEL"
+    ]
+  },
+  {
+    "value": "KERALA AGRO",
+    "synonyms": [
+      "KERALA AGRO"
+    ]
+  },
+  {
+    "value": "KERALA AUTO",
+    "synonyms": [
+      "KERALA AUTO"
+    ]
+  },
+  {
+    "value": "KERALA AUTOMOBILES LTD",
+    "synonyms": [
+      "KERALA AUTOMOBILES LTD"
+    ]
+  },
+  {
+    "value": "KHALSA",
+    "synonyms": [
+      "KHALSA"
+    ]
+  },
+  {
+    "value": "KHODIYAR TRADERS",
+    "synonyms": [
+      "KHODIYAR TRADERS"
+    ]
+  },
+  {
+    "value": "KIA",
+    "synonyms": [
+      "KIA"
+    ]
+  },
+  {
+    "value": "KINETIC",
+    "synonyms": [
+      "KINETIC"
+    ]
+  },
+  {
+    "value": "KIRTI SOLAR LTD",
+    "synonyms": [
+      "KIRTI SOLAR LTD"
+    ]
+  },
+  {
+    "value": "KOBELCO",
+    "synonyms": [
+      "KOBELCO"
+    ]
+  },
+  {
+    "value": "KOEHRING CRANES",
+    "synonyms": [
+      "KOEHRING CRANES"
+    ]
+  },
+  {
+    "value": "KOMATSU",
+    "synonyms": [
+      "KOMATSU"
+    ]
+  },
+  {
+    "value": "KRANTI AUTO",
+    "synonyms": [
+      "KRANTI AUTO"
+    ]
+  },
+  {
+    "value": "KRANTI AUTOMOBILES LTD",
+    "synonyms": [
+      "KRANTI AUTOMOBILES LTD"
+    ]
+  },
+  {
+    "value": "KRISHNA",
+    "synonyms": [
+      "KRISHNA"
+    ]
+  },
+  {
+    "value": "KRISHNA VEHICLES",
+    "synonyms": [
+      "KRISHNA VEHICLES"
+    ]
+  },
+  {
+    "value": "KRUEGER",
+    "synonyms": [
+      "KRUEGER"
+    ]
+  },
+  {
+    "value": "KRUPP",
+    "synonyms": [
+      "KRUPP"
+    ]
+  },
+  {
+    "value": "KTM",
+    "synonyms": [
+      "KTM"
+    ]
+  },
+  {
+    "value": "KUBOTA",
+    "synonyms": [
+      "KUBOTA"
+    ]
+  },
+  {
+    "value": "KUKU AUTOMOTIVES",
+    "synonyms": [
+      "KUKU AUTOMOTIVES"
+    ]
+  },
+  {
+    "value": "KULDEEP",
+    "synonyms": [
+      "KULDEEP"
+    ]
+  },
+  {
+    "value": "KUMAR MOTORS",
+    "synonyms": [
+      "KUMAR MOTORS"
+    ]
+  },
+  {
+    "value": "KURUKSHETRA AUTOMOBILES PVT LTD",
+    "synonyms": [
+      "KURUKSHETRA AUTOMOBILES PVT LTD"
+    ]
+  },
+  {
+    "value": "L\u0026T CASE EQUIP",
+    "synonyms": [
+      "L\u0026T CASE EQUIP"
+    ]
+  },
+  {
+    "value": "L\u0026T CASE EQUIPMENT",
+    "synonyms": [
+      "L\u0026T CASE EQUIPMENT"
+    ]
+  },
+  {
+    "value": "LAMBORGHINI",
+    "synonyms": [
+      "LAMBORGHINI"
+    ]
+  },
+  {
+    "value": "LAND ROVER",
+    "synonyms": [
+      "LAND ROVER"
+    ]
+  },
+  {
+    "value": "LANDEX",
+    "synonyms": [
+      "LANDEX"
+    ]
+  },
+  {
+    "value": "LARSEN \u0026 TOUBRO",
+    "synonyms": [
+      "LARSEN \u0026 TOUBRO"
+    ]
+  },
+  {
+    "value": "LEE BOY INDIA",
+    "synonyms": [
+      "LEE BOY INDIA"
+    ]
+  },
+  {
+    "value": "LEXIA MOTORS",
+    "synonyms": [
+      "LEXIA MOTORS"
+    ]
+  },
+  {
+    "value": "LEXIA MOTORS LTD",
+    "synonyms": [
+      "LEXIA MOTORS LTD"
+    ]
+  },
+  {
+    "value": "LEXUS",
+    "synonyms": [
+      "LEXUS"
+    ]
+  },
+  {
+    "value": "LEYLAND",
+    "synonyms": [
+      "LEYLAND"
+    ]
+  },
+  {
+    "value": "LIEBHERR",
+    "synonyms": [
+      "LIEBHERR"
+    ]
+  },
+  {
+    "value": "LIMA",
+    "synonyms": [
+      "LIMA"
+    ]
+  },
+  {
+    "value": "LIMO",
+    "synonyms": [
+      "LIMO"
+    ]
+  },
+  {
+    "value": "LINDE BAKER",
+    "synonyms": [
+      "LINDE BAKER"
+    ]
+  },
+  {
+    "value": "LINK BELT",
+    "synonyms": [
+      "LINK BELT"
+    ]
+  },
+  {
+    "value": "LIUGONG",
+    "synonyms": [
+      "LIUGONG"
+    ]
+  },
+  {
+    "value": "LIUGONG MANUFACTURES",
+    "synonyms": [
+      "LIUGONG MANUFACTURES"
+    ]
+  },
+  {
+    "value": "LML",
+    "synonyms": [
+      "LML"
+    ]
+  },
+  {
+    "value": "LOHIA AUTO",
+    "synonyms": [
+      "LOHIA AUTO"
+    ]
+  },
+  {
+    "value": "LOKOMO",
+    "synonyms": [
+      "LOKOMO"
+    ]
+  },
+  {
+    "value": "LORAIN",
+    "synonyms": [
+      "LORAIN"
+    ]
+  },
+  {
+    "value": "LOTIA MOTORS",
+    "synonyms": [
+      "LOTIA MOTORS"
+    ]
+  },
+  {
+    "value": "LOVOL",
+    "synonyms": [
+      "LOVOL"
+    ]
+  },
+  {
+    "value": "LUNA EQUIPOS",
+    "synonyms": [
+      "LUNA EQUIPOS"
+    ]
+  },
+  {
+    "value": "M K ENTERPRISES",
+    "synonyms": [
+      "M K ENTERPRISES"
+    ]
+  },
+  {
+    "value": "MAA SHAKTI EXIM PVT LTD",
+    "synonyms": [
+      "MAA SHAKTI EXIM PVT LTD"
+    ]
+  },
+  {
+    "value": "MACK TRUCKS",
+    "synonyms": [
+      "MACK TRUCKS"
+    ]
+  },
+  {
+    "value": "MACONS EQUIPMENTS PVT LTD",
+    "synonyms": [
+      "MACONS EQUIPMENTS PVT LTD"
+    ]
+  },
+  {
+    "value": "MAHINDRA",
+    "synonyms": [
+      "MAHINDRA"
+    ]
+  },
+  {
+    "value": "MAHINDRA \u0026 MAHINDRA",
+    "synonyms": [
+      "MAHINDRA \u0026 MAHINDRA"
+    ]
+  },
+  {
+    "value": "MAHINDRA GUJARAT",
+    "synonyms": [
+      "MAHINDRA GUJARAT"
+    ]
+  },
+  {
+    "value": "MAHINDRA INTL",
+    "synonyms": [
+      "MAHINDRA INTL"
+    ]
+  },
+  {
+    "value": "MAHINDRA MOTORS",
+    "synonyms": [
+      "MAHINDRA MOTORS"
+    ]
+  },
+  {
+    "value": "MAHINDRA NAVISTAR",
+    "synonyms": [
+      "MAHINDRA NAVISTAR"
+    ]
+  },
+  {
+    "value": "MAHINDRA RENAULT",
+    "synonyms": [
+      "MAHINDRA RENAULT"
+    ]
+  },
+  {
+    "value": "MAHINDRA TRACTOR",
+    "synonyms": [
+      "MAHINDRA TRACTOR"
+    ]
+  },
+  {
+    "value": "MAHINDRA.",
+    "synonyms": [
+      "MAHINDRA."
+    ]
+  },
+  {
+    "value": "MAHINDRANAVISTAR",
+    "synonyms": [
+      "MAHINDRANAVISTAR"
+    ]
+  },
+  {
+    "value": "MAJESTIC AUTO",
+    "synonyms": [
+      "MAJESTIC AUTO"
+    ]
+  },
+  {
+    "value": "MALKIT AGRO",
+    "synonyms": [
+      "MALKIT AGRO"
+    ]
+  },
+  {
+    "value": "MAN FORCE",
+    "synonyms": [
+      "MAN FORCE"
+    ]
+  },
+  {
+    "value": "MAN-FORCE",
+    "synonyms": [
+      "MAN-FORCE"
+    ]
+  },
+  {
+    "value": "MANITOU",
+    "synonyms": [
+      "MANITOU"
+    ]
+  },
+  {
+    "value": "MANITOWOC",
+    "synonyms": [
+      "MANITOWOC"
+    ]
+  },
+  {
+    "value": "MANJIT AGRO",
+    "synonyms": [
+      "MANJIT AGRO"
+    ]
+  },
+  {
+    "value": "MANKU AGRI TECH PVT LTD",
+    "synonyms": [
+      "MANKU AGRI TECH PVT LTD"
+    ]
+  },
+  {
+    "value": "MARSMAN",
+    "synonyms": [
+      "MARSMAN"
+    ]
+  },
+  {
+    "value": "MARUTI",
+    "synonyms": [
+      "MARUTI"
+    ]
+  },
+  {
+    "value": "MASERATI",
+    "synonyms": [
+      "MASERATI"
+    ]
+  },
+  {
+    "value": "MASSEY FERGUSON",
+    "synonyms": [
+      "MASSEY FERGUSON"
+    ]
+  },
+  {
+    "value": "MAXUS",
+    "synonyms": [
+      "MAXUS"
+    ]
+  },
+  {
+    "value": "MAYBACH",
+    "synonyms": [
+      "MAYBACH"
+    ]
+  },
+  {
+    "value": "MAZDA",
+    "synonyms": [
+      "MAZDA"
+    ]
+  },
+  {
+    "value": "MERCEDES-BENZ",
+    "synonyms": [
+      "MERCEDES-BENZ"
+    ]
+  },
+  {
+    "value": "MERCEDES-BENZ.",
+    "synonyms": [
+      "MERCEDES-BENZ."
+    ]
+  },
+  {
+    "value": "MG",
+    "synonyms": [
+      "MG"
+    ]
+  },
+  {
+    "value": "MINI",
+    "synonyms": [
+      "MINI"
+    ]
+  },
+  {
+    "value": "MINI METRO EV LLP",
+    "synonyms": [
+      "MINI METRO EV LLP"
+    ]
+  },
+  {
+    "value": "MITSUBISHI",
+    "synonyms": [
+      "MITSUBISHI"
+    ]
+  },
+  {
+    "value": "MOBILE",
+    "synonyms": [
+      "MOBILE"
+    ]
+  },
+  {
+    "value": "MONTO",
+    "synonyms": [
+      "MONTO"
+    ]
+  },
+  {
+    "value": "MYVA",
+    "synonyms": [
+      "MYVA"
+    ]
+  },
+  {
+    "value": "N S AGRO",
+    "synonyms": [
+      "N S AGRO"
+    ]
+  },
+  {
+    "value": "NABH MOTORS PVT LTD",
+    "synonyms": [
+      "NABH MOTORS PVT LTD"
+    ]
+  },
+  {
+    "value": "NABHA AGRO",
+    "synonyms": [
+      "NABHA AGRO"
+    ]
+  },
+  {
+    "value": "NANDI AUTO",
+    "synonyms": [
+      "NANDI AUTO"
+    ]
+  },
+  {
+    "value": "NEEDLE EYE PLASTIC INDUSTRIES PVT LTD",
+    "synonyms": [
+      "NEEDLE EYE PLASTIC INDUSTRIES PVT LTD"
+    ]
+  },
+  {
+    "value": "NEW HOLLAND",
+    "synonyms": [
+      "NEW HOLLAND"
+    ]
+  },
+  {
+    "value": "NIKHIL FURNITURES",
+    "synonyms": [
+      "NIKHIL FURNITURES"
+    ]
+  },
+  {
+    "value": "NILKAMAL LIMITED",
+    "synonyms": [
+      "NILKAMAL LIMITED"
+    ]
+  },
+  {
+    "value": "NIPPUN PVT LTD",
+    "synonyms": [
+      "NIPPUN PVT LTD"
+    ]
+  },
+  {
+    "value": "NISSAN",
+    "synonyms": [
+      "NISSAN"
+    ]
+  },
+  {
+    "value": "OK PLAY",
+    "synonyms": [
+      "OK PLAY"
+    ]
+  },
+  {
+    "value": "OKINAWA",
+    "synonyms": [
+      "OKINAWA"
+    ]
+  },
+  {
+    "value": "OMEGA",
+    "synonyms": [
+      "OMEGA"
+    ]
+  },
+  {
+    "value": "OPEL",
+    "synonyms": [
+      "OPEL"
+    ]
+  },
+  {
+    "value": "OPHEE",
+    "synonyms": [
+      "OPHEE"
+    ]
+  },
+  {
+    "value": "P AND H",
+    "synonyms": [
+      "P AND H"
+    ]
+  },
+  {
+    "value": "PANCHNATH AUTO",
+    "synonyms": [
+      "PANCHNATH AUTO"
+    ]
+  },
+  {
+    "value": "PANCHNATH AUTO PVT LTD",
+    "synonyms": [
+      "PANCHNATH AUTO PVT LTD"
+    ]
+  },
+  {
+    "value": "PANESAR AGRI",
+    "synonyms": [
+      "PANESAR AGRI"
+    ]
+  },
+  {
+    "value": "PANESAR AGRICULTURE INDUSTRIES",
+    "synonyms": [
+      "PANESAR AGRICULTURE INDUSTRIES"
+    ]
+  },
+  {
+    "value": "PANTHER TRACTOR",
+    "synonyms": [
+      "PANTHER TRACTOR"
+    ]
+  },
+  {
+    "value": "PASHUPATI VEHICLES PVT LTD",
+    "synonyms": [
+      "PASHUPATI VEHICLES PVT LTD"
+    ]
+  },
+  {
+    "value": "PERODUA",
+    "synonyms": [
+      "PERODUA"
+    ]
+  },
+  {
+    "value": "PETTIBONE",
+    "synonyms": [
+      "PETTIBONE"
+    ]
+  },
+  {
+    "value": "PEUGEOT",
+    "synonyms": [
+      "PEUGEOT"
+    ]
+  },
+  {
+    "value": "PIAGGIO",
+    "synonyms": [
+      "PIAGGIO"
+    ]
+  },
+  {
+    "value": "PIAGGIO GREAVES",
+    "synonyms": [
+      "PIAGGIO GREAVES"
+    ]
+  },
+  {
+    "value": "PLAUDIT TECHNO INDIA PVT LTD",
+    "synonyms": [
+      "PLAUDIT TECHNO INDIA PVT LTD"
+    ]
+  },
+  {
+    "value": "PLYMOUTH",
+    "synonyms": [
+      "PLYMOUTH"
+    ]
+  },
+  {
+    "value": "PORSCHE",
+    "synonyms": [
+      "PORSCHE"
+    ]
+  },
+  {
+    "value": "PREET AGRO IND.",
+    "synonyms": [
+      "PREET AGRO IND."
+    ]
+  },
+  {
+    "value": "PREET TRACTORS",
+    "synonyms": [
+      "PREET TRACTORS"
+    ]
+  },
+  {
+    "value": "PREMIER",
+    "synonyms": [
+      "PREMIER"
+    ]
+  },
+  {
+    "value": "PREMIER.",
+    "synonyms": [
+      "PREMIER."
+    ]
+  },
+  {
+    "value": "PRIYAA CRANES",
+    "synonyms": [
+      "PRIYAA CRANES"
+    ]
+  },
+  {
+    "value": "PROTON",
+    "synonyms": [
+      "PROTON"
+    ]
+  },
+  {
+    "value": "PUBANG ETRON ELECTRIC MOTOR PVT LTD",
+    "synonyms": [
+      "PUBANG ETRON ELECTRIC MOTOR PVT LTD"
+    ]
+  },
+  {
+    "value": "PUNJAB TRACTORS LTD",
+    "synonyms": [
+      "PUNJAB TRACTORS LTD"
+    ]
+  },
+  {
+    "value": "PVR PETROCHEMICALS PVT. LTD.",
+    "synonyms": [
+      "PVR PETROCHEMICALS PVT. LTD."
+    ]
+  },
+  {
+    "value": "RACE AUTOMOTIVES PVT LTD",
+    "synonyms": [
+      "RACE AUTOMOTIVES PVT LTD"
+    ]
+  },
+  {
+    "value": "RAHUL AUTO",
+    "synonyms": [
+      "RAHUL AUTO"
+    ]
+  },
+  {
+    "value": "RAJ AUTO",
+    "synonyms": [
+      "RAJ AUTO"
+    ]
+  },
+  {
+    "value": "RAMGARHIA",
+    "synonyms": [
+      "RAMGARHIA"
+    ]
+  },
+  {
+    "value": "RAMGARHIA ENGG WORKS",
+    "synonyms": [
+      "RAMGARHIA ENGG WORKS"
+    ]
+  },
+  {
+    "value": "RANGE",
+    "synonyms": [
+      "RANGE"
+    ]
+  },
+  {
+    "value": "RANGEROVER",
+    "synonyms": [
+      "RANGEROVER"
+    ]
+  },
+  {
+    "value": "RASANDIK MOTORS",
+    "synonyms": [
+      "RASANDIK MOTORS"
+    ]
+  },
+  {
+    "value": "REEP",
+    "synonyms": [
+      "REEP"
+    ]
+  },
+  {
+    "value": "RENAULT",
+    "synonyms": [
+      "RENAULT"
+    ]
+  },
+  {
+    "value": "REVA",
+    "synonyms": [
+      "REVA"
+    ]
+  },
+  {
+    "value": "RHINOCEROS",
+    "synonyms": [
+      "RHINOCEROS"
+    ]
+  },
+  {
+    "value": "ROLLS ROYCE",
+    "synonyms": [
+      "ROLLS ROYCE"
+    ]
+  },
+  {
+    "value": "ROLLS-ROYCE",
+    "synonyms": [
+      "ROLLS-ROYCE"
+    ]
+  },
+  {
+    "value": "ROOTS MULTICLEAN LTD",
+    "synonyms": [
+      "ROOTS MULTICLEAN LTD"
+    ]
+  },
+  {
+    "value": "ROVER",
+    "synonyms": [
+      "ROVER"
+    ]
+  },
+  {
+    "value": "ROYAL ENFIELD",
+    "synonyms": [
+      "ROYAL ENFIELD"
+    ]
+  },
+  {
+    "value": "S S AUTO IND",
+    "synonyms": [
+      "S S AUTO IND"
+    ]
+  },
+  {
+    "value": "S S INDUSTRIES",
+    "synonyms": [
+      "S S INDUSTRIES"
+    ]
+  },
+  {
+    "value": "SA SYNCON INFRA",
+    "synonyms": [
+      "SA SYNCON INFRA"
+    ]
+  },
+  {
+    "value": "SAARTHI",
+    "synonyms": [
+      "SAARTHI"
+    ]
+  },
+  {
+    "value": "SAERA ELECTRIC AUTO PVT LTD",
+    "synonyms": [
+      "SAERA ELECTRIC AUTO PVT LTD"
+    ]
+  },
+  {
+    "value": "SAKSHAM",
+    "synonyms": [
+      "SAKSHAM"
+    ]
+  },
+  {
+    "value": "SALZGITTER",
+    "synonyms": [
+      "SALZGITTER"
+    ]
+  },
+  {
+    "value": "SAME DEUTZ FAHR",
+    "synonyms": [
+      "SAME DEUTZ FAHR"
+    ]
+  },
+  {
+    "value": "SAMEGREAVES LTD",
+    "synonyms": [
+      "SAMEGREAVES LTD"
+    ]
+  },
+  {
+    "value": "SAN",
+    "synonyms": [
+      "SAN"
+    ]
+  },
+  {
+    "value": "SAN MOTORS",
+    "synonyms": [
+      "SAN MOTORS"
+    ]
+  },
+  {
+    "value": "SANY",
+    "synonyms": [
+      "SANY"
+    ]
+  },
+  {
+    "value": "SAS MOTORS",
+    "synonyms": [
+      "SAS MOTORS"
+    ]
+  },
+  {
+    "value": "SAT KARTAR AGRO",
+    "synonyms": [
+      "SAT KARTAR AGRO"
+    ]
+  },
+  {
+    "value": "SAURABH ELECTRIC AUTO",
+    "synonyms": [
+      "SAURABH ELECTRIC AUTO"
+    ]
+  },
+  {
+    "value": "SCAMEL",
+    "synonyms": [
+      "SCAMEL"
+    ]
+  },
+  {
+    "value": "SCANIA",
+    "synonyms": [
+      "SCANIA"
+    ]
+  },
+  {
+    "value": "SCHWING STETTER INDIA PVT LTD",
+    "synonyms": [
+      "SCHWING STETTER INDIA PVT LTD"
+    ]
+  },
+  {
+    "value": "SCOOTERS INDIA",
+    "synonyms": [
+      "SCOOTERS INDIA"
+    ]
+  },
+  {
+    "value": "SCOOTERS INDIA LTD",
+    "synonyms": [
+      "SCOOTERS INDIA LTD"
+    ]
+  },
+  {
+    "value": "SDLG",
+    "synonyms": [
+      "SDLG"
+    ]
+  },
+  {
+    "value": "SHAKTI MINING",
+    "synonyms": [
+      "SHAKTI MINING"
+    ]
+  },
+  {
+    "value": "SHAKTIMAN",
+    "synonyms": [
+      "SHAKTIMAN"
+    ]
+  },
+  {
+    "value": "SHANDONG LINGONG",
+    "synonyms": [
+      "SHANDONG LINGONG"
+    ]
+  },
+  {
+    "value": "SHANTHI AUTO",
+    "synonyms": [
+      "SHANTHI AUTO"
+    ]
+  },
+  {
+    "value": "SHINN FU COMPANY",
+    "synonyms": [
+      "SHINN FU COMPANY"
+    ]
+  },
+  {
+    "value": "SHITLA",
+    "synonyms": [
+      "SHITLA"
+    ]
+  },
+  {
+    "value": "SHRACHI",
+    "synonyms": [
+      "SHRACHI"
+    ]
+  },
+  {
+    "value": "SHREE SHYAM",
+    "synonyms": [
+      "SHREE SHYAM"
+    ]
+  },
+  {
+    "value": "SHREE SIRIDI SAI MINERAL \u0026 EXPORTS PVT. LTD.",
+    "synonyms": [
+      "SHREE SIRIDI SAI MINERAL \u0026 EXPORTS PVT. LTD."
+    ]
+  },
+  {
+    "value": "SHRI NARAYAN ENG",
+    "synonyms": [
+      "SHRI NARAYAN ENG"
+    ]
+  },
+  {
+    "value": "SHRI RAJSHAKTI",
+    "synonyms": [
+      "SHRI RAJSHAKTI"
+    ]
+  },
+  {
+    "value": "SHRI RAM",
+    "synonyms": [
+      "SHRI RAM"
+    ]
+  },
+  {
+    "value": "SINGH QUARRY",
+    "synonyms": [
+      "SINGH QUARRY"
+    ]
+  },
+  {
+    "value": "SINO",
+    "synonyms": [
+      "SINO"
+    ]
+  },
+  {
+    "value": "SINOTRUK",
+    "synonyms": [
+      "SINOTRUK"
+    ]
+  },
+  {
+    "value": "SITARA AUTO",
+    "synonyms": [
+      "SITARA AUTO"
+    ]
+  },
+  {
+    "value": "SKODA",
+    "synonyms": [
+      "SKODA"
+    ]
+  },
+  {
+    "value": "SKYJACK",
+    "synonyms": [
+      "SKYJACK"
+    ]
+  },
+  {
+    "value": "SML ISUZU",
+    "synonyms": [
+      "SML ISUZU"
+    ]
+  },
+  {
+    "value": "SONALIKA",
+    "synonyms": [
+      "SONALIKA"
+    ]
+  },
+  {
+    "value": "SONALIKA MOTORS",
+    "synonyms": [
+      "SONALIKA MOTORS"
+    ]
+  },
+  {
+    "value": "SONI",
+    "synonyms": [
+      "SONI"
+    ]
+  },
+  {
+    "value": "SOORAJ AUTO",
+    "synonyms": [
+      "SOORAJ AUTO"
+    ]
+  },
+  {
+    "value": "SOORAJ AUTOMOBILES LTD",
+    "synonyms": [
+      "SOORAJ AUTOMOBILES LTD"
+    ]
+  },
+  {
+    "value": "SPEEDCRAFT",
+    "synonyms": [
+      "SPEEDCRAFT"
+    ]
+  },
+  {
+    "value": "SSANGYONG",
+    "synonyms": [
+      "SSANGYONG"
+    ]
+  },
+  {
+    "value": "STANDARD",
+    "synonyms": [
+      "STANDARD"
+    ]
+  },
+  {
+    "value": "STANDARD COMBINE",
+    "synonyms": [
+      "STANDARD COMBINE"
+    ]
+  },
+  {
+    "value": "STANDARD CORP",
+    "synonyms": [
+      "STANDARD CORP"
+    ]
+  },
+  {
+    "value": "STEELBRO",
+    "synonyms": [
+      "STEELBRO"
+    ]
+  },
+  {
+    "value": "SUBARU",
+    "synonyms": [
+      "SUBARU"
+    ]
+  },
+  {
+    "value": "SUNSTAR",
+    "synonyms": [
+      "SUNSTAR"
+    ]
+  },
+  {
+    "value": "SUPERECO AUTOMOTIVE CO.",
+    "synonyms": [
+      "SUPERECO AUTOMOTIVE CO."
+    ]
+  },
+  {
+    "value": "SURENDRA AGRO",
+    "synonyms": [
+      "SURENDRA AGRO"
+    ]
+  },
+  {
+    "value": "SUZUKI",
+    "synonyms": [
+      "SUZUKI"
+    ]
+  },
+  {
+    "value": "SWARAJ",
+    "synonyms": [
+      "SWARAJ"
+    ]
+  },
+  {
+    "value": "SWARAJ MAZDA",
+    "synonyms": [
+      "SWARAJ MAZDA"
+    ]
+  },
+  {
+    "value": "TADANO",
+    "synonyms": [
+      "TADANO"
+    ]
+  },
+  {
+    "value": "TADANO, JAPAN",
+    "synonyms": [
+      "TADANO, JAPAN"
+    ]
+  },
+  {
+    "value": "TAFE TRACTORS",
+    "synonyms": [
+      "TAFE TRACTORS"
+    ]
+  },
+  {
+    "value": "TAKEUCHI",
+    "synonyms": [
+      "TAKEUCHI"
+    ]
+  },
+  {
+    "value": "TATA",
+    "synonyms": [
+      "TATA"
+    ]
+  },
+  {
+    "value": "TATA HITACHI",
+    "synonyms": [
+      "TATA HITACHI"
+    ]
+  },
+  {
+    "value": "TATA MOTORS",
+    "synonyms": [
+      "TATA MOTORS"
+    ]
+  },
+  {
+    "value": "TATA MOTORS LTD",
+    "synonyms": [
+      "TATA MOTORS LTD"
+    ]
+  },
+  {
+    "value": "TATRA",
+    "synonyms": [
+      "TATRA"
+    ]
+  },
+  {
+    "value": "TCM",
+    "synonyms": [
+      "TCM"
+    ]
+  },
+  {
+    "value": "TEJA AUTO",
+    "synonyms": [
+      "TEJA AUTO"
+    ]
+  },
+  {
+    "value": "TELCON",
+    "synonyms": [
+      "TELCON"
+    ]
+  },
+  {
+    "value": "TEREX",
+    "synonyms": [
+      "TEREX"
+    ]
+  },
+  {
+    "value": "TEREX VECTRA",
+    "synonyms": [
+      "TEREX VECTRA"
+    ]
+  },
+  {
+    "value": "TERRA MOTORS",
+    "synonyms": [
+      "TERRA MOTORS"
+    ]
+  },
+  {
+    "value": "TIL LIMITED",
+    "synonyms": [
+      "TIL LIMITED"
+    ]
+  },
+  {
+    "value": "TITAGARH AGRICO PVT LTD",
+    "synonyms": [
+      "TITAGARH AGRICO PVT LTD"
+    ]
+  },
+  {
+    "value": "TMC",
+    "synonyms": [
+      "TMC"
+    ]
+  },
+  {
+    "value": "TONGYADA",
+    "synonyms": [
+      "TONGYADA"
+    ]
+  },
+  {
+    "value": "TOYOTA",
+    "synonyms": [
+      "TOYOTA"
+    ]
+  },
+  {
+    "value": "TOYOTA KIRLOSKAR",
+    "synonyms": [
+      "TOYOTA KIRLOSKAR"
+    ]
+  },
+  {
+    "value": "TPS",
+    "synonyms": [
+      "TPS"
+    ]
+  },
+  {
+    "value": "TRAILER",
+    "synonyms": [
+      "TRAILER"
+    ]
+  },
+  {
+    "value": "TRAVEL",
+    "synonyms": [
+      "TRAVEL"
+    ]
+  },
+  {
+    "value": "TRIUMPH",
+    "synonyms": [
+      "TRIUMPH"
+    ]
+  },
+  {
+    "value": "TVS",
+    "synonyms": [
+      "TVS"
+    ]
+  },
+  {
+    "value": "TVS MOTORS",
+    "synonyms": [
+      "TVS MOTORS"
+    ]
+  },
+  {
+    "value": "U P TELELINKS LTD",
+    "synonyms": [
+      "U P TELELINKS LTD"
+    ]
+  },
+  {
+    "value": "UMBRELLA CORPORATION",
+    "synonyms": [
+      "UMBRELLA CORPORATION"
+    ]
+  },
+  {
+    "value": "UNIPAVE",
+    "synonyms": [
+      "UNIPAVE"
+    ]
+  },
+  {
+    "value": "UNIVERSAL",
+    "synonyms": [
+      "UNIVERSAL"
+    ]
+  },
+  {
+    "value": "UNIVERSAL CONST",
+    "synonyms": [
+      "UNIVERSAL CONST"
+    ]
+  },
+  {
+    "value": "UNIVERSAL CONSTRUCTION",
+    "synonyms": [
+      "UNIVERSAL CONSTRUCTION"
+    ]
+  },
+  {
+    "value": "USSR",
+    "synonyms": [
+      "USSR"
+    ]
+  },
+  {
+    "value": "VAIBHAV AUTO",
+    "synonyms": [
+      "VAIBHAV AUTO"
+    ]
+  },
+  {
+    "value": "VAIBHAV TRACTORS",
+    "synonyms": [
+      "VAIBHAV TRACTORS"
+    ]
+  },
+  {
+    "value": "VANI ELECTRIC VEHICLES PVT LTD",
+    "synonyms": [
+      "VANI ELECTRIC VEHICLES PVT LTD"
+    ]
+  },
+  {
+    "value": "VANNYA MOTORS",
+    "synonyms": [
+      "VANNYA MOTORS"
+    ]
+  },
+  {
+    "value": "VAWDREY",
+    "synonyms": [
+      "VAWDREY"
+    ]
+  },
+  {
+    "value": "VE COMMERCIAL VEHICLES LTD",
+    "synonyms": [
+      "VE COMMERCIAL VEHICLES LTD"
+    ]
+  },
+  {
+    "value": "VEER PARTAP",
+    "synonyms": [
+      "VEER PARTAP"
+    ]
+  },
+  {
+    "value": "VIBGYOR",
+    "synonyms": [
+      "VIBGYOR"
+    ]
+  },
+  {
+    "value": "VICTORY",
+    "synonyms": [
+      "VICTORY"
+    ]
+  },
+  {
+    "value": "VIRGO",
+    "synonyms": [
+      "VIRGO"
+    ]
+  },
+  {
+    "value": "VISHAL HARVESTER",
+    "synonyms": [
+      "VISHAL HARVESTER"
+    ]
+  },
+  {
+    "value": "VISHVAS TRACTOR LTD",
+    "synonyms": [
+      "VISHVAS TRACTOR LTD"
+    ]
+  },
+  {
+    "value": "VOLKSWAGEN",
+    "synonyms": [
+      "VOLKSWAGEN"
+    ]
+  },
+  {
+    "value": "VOLTAS",
+    "synonyms": [
+      "VOLTAS"
+    ]
+  },
+  {
+    "value": "VOLVO",
+    "synonyms": [
+      "VOLVO"
+    ]
+  },
+  {
+    "value": "VST TILLERS",
+    "synonyms": [
+      "VST TILLERS"
+    ]
+  },
+  {
+    "value": "WILLYS",
+    "synonyms": [
+      "WILLYS"
+    ]
+  },
+  {
+    "value": "Wingle",
+    "synonyms": [
+      "Wingle"
+    ]
+  },
+  {
+    "value": "WIRTGEN INDIA",
+    "synonyms": [
+      "WIRTGEN INDIA"
+    ]
+  },
+  {
+    "value": "WORKPLATFORM LTD",
+    "synonyms": [
+      "WORKPLATFORM LTD"
+    ]
+  },
+  {
+    "value": "XCMG",
+    "synonyms": [
+      "XCMG"
+    ]
+  },
+  {
+    "value": "XUZHOU",
+    "synonyms": [
+      "XUZHOU"
+    ]
+  },
+  {
+    "value": "Y C ELECTRIC VEHICLE",
+    "synonyms": [
+      "Y C ELECTRIC VEHICLE"
+    ]
+  },
+  {
+    "value": "YAMAHA",
+    "synonyms": [
+      "YAMAHA"
+    ]
+  },
+  {
+    "value": "YANMAR",
+    "synonyms": [
+      "YANMAR"
+    ]
+  },
+  {
+    "value": "YATRI",
+    "synonyms": [
+      "YATRI"
+    ]
+  },
+  {
+    "value": "YEZDI",
+    "synonyms": [
+      "YEZDI"
+    ]
+  },
+  {
+    "value": "YO BYKES",
+    "synonyms": [
+      "YO BYKES"
+    ]
+  },
+  {
+    "value": "ZBEE INDIA PVT LTD",
+    "synonyms": [
+      "ZBEE INDIA PVT LTD"
+    ]
+  },
+  {
+    "value": "ZOOM MOTORS PRIVATE LIMITED",
+    "synonyms": [
+      "ZOOM MOTORS PRIVATE LIMITED"
+    ]
+  },
+  {
+    "value": "ZOOMLION",
+    "synonyms": [
+      "ZOOMLION"
+    ]
+  }
+]

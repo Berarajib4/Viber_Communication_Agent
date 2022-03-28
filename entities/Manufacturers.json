@@ -1,0 +1,9 @@
+{
+  "id": "a7005a5a-554d-42a5-8dda-ebd15b561484",
+  "name": "Manufacturers",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
