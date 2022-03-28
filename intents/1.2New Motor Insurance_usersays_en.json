@@ -1,0 +1,123 @@
+[
+  {
+    "id": "e2728e55-932c-4611-a7df-e2296508c48f",
+    "data": [
+      {
+        "text": "Toyota",
+        "meta": "@Manufacturers",
+        "alias": "Manufacturers",
+        "userDefined": true
+      },
+      {
+        "text": " is my manufacturers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "889b50d4-47b2-4e4c-803c-518954c6ac82",
+    "data": [
+      {
+        "text": "NSTD123232",
+        "meta": "@VehicleRegNum",
+        "alias": "VehicleRegNum",
+        "userDefined": true
+      },
+      {
+        "text": " is my vehicle registration number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "314a5708-c752-4c5b-b2dd-2a8dc355c8e6",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "Rajib",
+        "meta": "@sys.given-name",
+        "alias": "Name",
+        "userDefined": false
+      },
+      {
+        "text": " want a motor insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44f6aecc-6570-4627-b8a5-700ee911488e",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      },
+      {
+        "text": ". Motor Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2cf537b-6919-4d3f-b3af-5ff3983b1088",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      },
+      {
+        "text": ".Motor Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e50616e-8df4-41c2-8e44-35c48865edfe",
+    "data": [
+      {
+        "text": "Motor Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c526917-a844-4a36-ad21-039f084afc7a",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

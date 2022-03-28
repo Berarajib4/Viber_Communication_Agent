@@ -1,0 +1,42 @@
+[
+  {
+    "id": "b2e93364-a9ca-4cb5-b4c2-123502867828",
+    "data": [
+      {
+        "text": "My Policy Number ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2112-23-344-C01",
+        "meta": "@PolicyNumber",
+        "alias": "PolicyNumber",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e024365-8fde-42dd-a08b-cb58cbf0f2ef",
+    "data": [
+      {
+        "text": "Policy Number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

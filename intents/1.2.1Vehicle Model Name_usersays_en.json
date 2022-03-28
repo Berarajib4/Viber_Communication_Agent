@@ -1,0 +1,160 @@
+[
+  {
+    "id": "0bbbeaa9-e614-4676-81dd-464db86d1f55",
+    "data": [
+      {
+        "text": "1215455C120",
+        "meta": "@EngineChassisNumber",
+        "alias": "EngineNum",
+        "userDefined": true
+      },
+      {
+        "text": " is my engine number and ",
+        "userDefined": false
+      },
+      {
+        "text": "LKDNJJKDND156121",
+        "meta": "@EngineChassisNumber",
+        "alias": "ChassisNum",
+        "userDefined": true
+      },
+      {
+        "text": " is my chassis number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08654def-3e43-4cc4-82ec-d24cf577cfaa",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "12000",
+        "meta": "@sys.number",
+        "alias": "IDV",
+        "userDefined": false
+      },
+      {
+        "text": " as idv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd86f64d-bdf8-432d-92cc-af3b86750f1c",
+    "data": [
+      {
+        "text": "2021",
+        "meta": "@Manufacturing_Year",
+        "alias": "Manufacturing_Year",
+        "userDefined": false
+      },
+      {
+        "text": " is manufacturing year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19e84353-cac2-4914-a49c-7eab12b567b9",
+    "data": [
+      {
+        "text": "test@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": " is my email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7c42f1c-bbb6-4b73-88af-84a24c6abe37",
+    "data": [
+      {
+        "text": "+679 1234567",
+        "meta": "@MobileNum",
+        "alias": "MobileNum",
+        "userDefined": true
+      },
+      {
+        "text": " is my mobile number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffa7b4f3-587b-45e9-bd7e-e03891a9c5e4",
+    "data": [
+      {
+        "text": "diesel",
+        "meta": "@Fuel_Type",
+        "alias": "fuel_type",
+        "userDefined": false
+      },
+      {
+        "text": " is my fuel type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9611737-ec96-44a0-8469-c75a9c4f9f63",
+    "data": [
+      {
+        "text": "camry",
+        "meta": "@Model_Name",
+        "alias": "model_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c3c0872-bd55-4115-8da7-b1eebbc93bad",
+    "data": [
+      {
+        "text": "Tacoma",
+        "meta": "@Model_Name",
+        "alias": "model_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

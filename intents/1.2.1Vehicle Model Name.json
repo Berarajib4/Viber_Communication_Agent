@@ -1,0 +1,190 @@
+{
+  "id": "7ca480e6-633f-4d74-ba55-238827d89b8f",
+  "name": "1.2.1Vehicle Model Name",
+  "auto": true,
+  "contexts": [
+    "Awaiting_ModelName"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cdbad9ab-b4f2-4121-83da-08620b32f938",
+          "name": "model_name",
+          "required": true,
+          "dataType": "@Model_Name",
+          "value": "$model_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please Enter You Model Name ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "10971e8f-53c6-4dee-b3ed-fa8902d41db8",
+          "name": "fuel_type",
+          "required": true,
+          "dataType": "@Fuel_Type",
+          "value": "$fuel_type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter Fuel Type :\n1. Diesel\n2. Petrol\n3. CNG\n4. Electric"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "878fcc6a-f301-42d3-962e-cf49bb22ffd2",
+          "name": "EngineNum",
+          "required": true,
+          "dataType": "@EngineChassisNumber",
+          "value": "$EngineNum",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter Engine Number :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "83487f20-864f-43c9-a2e7-9da400912939",
+          "name": "ChassisNum",
+          "required": true,
+          "dataType": "@EngineChassisNumber",
+          "value": "$ChassisNum",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter Chassis Number :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f8f4467f-4e5b-41dd-99f4-38d5bb4ac61f",
+          "name": "MobileNum",
+          "required": true,
+          "dataType": "@MobileNum",
+          "value": "$MobileNum",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please Enter Contact Number(e.g. +679 9991850)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3a7e6e4c-0ab5-4cbc-ae66-8be892628145",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter Email Address(e.g. demo@gmail.com) :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1ccf29e9-40e2-433d-bf86-117c91e8a4de",
+          "name": "Manufacturing_Year",
+          "required": true,
+          "dataType": "@Manufacturing_Year",
+          "value": "$Manufacturing_Year",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter Manufacturing Year(YYYY) :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3e95676a-a473-40ba-8c75-9ddb673251e1",
+          "name": "IDV",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$IDV",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter how much Insured\u0027s Declared Value(IDV) you want in USD(e.g. 120000) :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Model Name Intent"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

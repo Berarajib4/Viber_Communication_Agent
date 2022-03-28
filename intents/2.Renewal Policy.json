@@ -1,0 +1,42 @@
+{
+  "id": "74196d09-5ebf-43d1-b543-30dc61564658",
+  "name": "2.Renewal Policy",
+  "auto": true,
+  "contexts": [
+    "Awaiting_PolicyType"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Awaiting_RenewalInsuranceType",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Happy to hear your interest. Can you please tell me what type of Insurance do you want ?\n1. Renew Life Insurance\n2. Renew Health Insurance\n3. Renew Motor Insurance"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

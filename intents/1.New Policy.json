@@ -1,0 +1,42 @@
+{
+  "id": "3399f548-d23e-4cf9-b2a3-256e4ca3f9d9",
+  "name": "1.New Policy",
+  "auto": true,
+  "contexts": [
+    "Awaiting_PolicyType"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Awaiting_InsuranceType",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That\u0027s great Can you please tell me what type of Insurance do you want ?\n1. Life Insurance\n2. Health Insurance\n3. Motor Insurance"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

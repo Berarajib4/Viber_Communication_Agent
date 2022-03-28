@@ -1,0 +1,95 @@
+{
+  "id": "9e4b2693-36b8-45fe-90e1-1b8f5c5323b4",
+  "name": "2.1Renew Life Insurance",
+  "auto": true,
+  "contexts": [
+    "Awaiting_RenewalInsuranceType"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a7403fda-8f32-4755-8c09-e4ceb20f07e8",
+          "name": "Name",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "value": "$Name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your Name :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7fa09faf-b78b-4830-beab-018e88b79d35",
+          "name": "Age",
+          "required": true,
+          "dataType": "@sys.age",
+          "value": "$Age",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "$Name enter your age please(e.g. 23 years) :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d8308085-7868-4111-8afe-67b9595fcfde",
+          "name": "Policy_Num",
+          "required": true,
+          "dataType": "@VehicleRegNum",
+          "value": "$Policy_Num",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your Policy Number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Work going on Renew Life Insurance"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

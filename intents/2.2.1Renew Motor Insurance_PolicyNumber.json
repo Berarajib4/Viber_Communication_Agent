@@ -1,0 +1,60 @@
+{
+  "id": "db5d0704-6490-4271-86eb-947bdaadb51d",
+  "name": "2.2.1Renew Motor Insurance_PolicyNumber",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Awaiting_PolicyNumber",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bb71ddba-e04b-4494-b348-af56d5449cc3",
+          "name": "PolicyNumber",
+          "required": true,
+          "dataType": "@PolicyNumber",
+          "value": "$PolicyNumber",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter Policy Number:"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Working On Progress..."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

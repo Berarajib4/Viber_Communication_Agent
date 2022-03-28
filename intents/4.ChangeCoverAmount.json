@@ -1,0 +1,34 @@
+{
+  "id": "0bcebdca-1d7b-4b75-a7de-f796c3cf526e",
+  "name": "4.ChangeCoverAmount",
+  "auto": true,
+  "contexts": [
+    "Awaiting_PolicyNumber"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "3b238723-d51d-45b3-a986-5be63928b5a9",
+  "name": "4.1ChangeCoverAmount_Basic",
+  "auto": true,
+  "contexts": [
+    "Awaiting_PolicyNumber"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d66f3347-7c6e-4a61-b616-dad75239fdba",
+          "name": "BasicAmt",
+          "required": true,
+          "dataType": "@sys.number-sequence",
+          "value": "$BasicAmt",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter Basic Amount :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "working..."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

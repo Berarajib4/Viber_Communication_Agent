@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1143442f-08c3-4c28-be66-ee64b8647ddc",
+    "data": [
+      {
+        "text": "240000",
+        "meta": "@sys.number",
+        "alias": "BasicAmt",
+        "userDefined": false
+      },
+      {
+        "text": " this ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "userDefined": false
+      },
+      {
+        "text": " basic amount for cover change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03b6021b-c5c7-4629-b390-4e2ecdbabdf4",
+    "data": [
+      {
+        "text": "Basic: ",
+        "userDefined": false
+      },
+      {
+        "text": "$10000",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": "981c4832-5705-4a81-aa90-815d4d28bc8f",
+  "name": "1.2New Motor Insurance",
+  "auto": true,
+  "contexts": [
+    "Awaiting_InsuranceType"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Awaiting_ModelName",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e3f6c774-40c2-4c8f-a998-f47149600ffc",
+          "name": "Name",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "value": "$Name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your Name Please :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7151ac2d-4583-43c5-a71c-d6ff1737a0cb",
+          "name": "VehicleRegNum",
+          "required": true,
+          "dataType": "@VehicleRegNum",
+          "value": "$VehicleRegNum",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "$Name, Enter Vehicle Registration Number, Only Capital Letters and Digits (e.g. FQ 587) :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3a57bb6f-4861-44a3-9995-f31ebb2f78d0",
+          "name": "Manufacturers",
+          "required": true,
+          "dataType": "@Manufacturers",
+          "value": "$Manufacturers",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please Enter Vehicle Manufacturer Name :\n1. Toyota\n2. Audi\n3. BMW\n4. Skoda\n5. Ford\n6. Honda\n7. Hyundai\n8. Tata\n9. Suzuki\n10. Mercedes - Benz\n11. Jaguar\n12. Nissan\n13. Volvo\n14. Volkswagen\n15. Porsche\n16. Renault\n17. Kia\n18. Jeep\n19. Land Rover\n20. Opel\n21. Bentley\n22. General Motors\n23. Aprilia\n24. Ashok Leyland\n25. Ferrari\nor Enter other manufacturers name :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Issue come With New Motor Insurance Intent. Please Check..."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "5c5a71a2-ab0e-471a-b9a4-475e5275f8e8",
+  "name": "1.1New Life Insurance",
+  "auto": true,
+  "contexts": [
+    "Awaiting_InsuranceType"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d2ac447f-e363-42eb-8d6c-daa5ef7c91e7",
+          "name": "Name",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "value": "$Name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your Name please :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "983d1499-47fd-4080-9b96-f9f810920a5b",
+          "name": "age",
+          "required": true,
+          "dataType": "@sys.age",
+          "value": "$age",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "$Name, how older are you (e.g. 23 years) ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bd7bd080-1b6b-40e6-91b3-e8b9eb7f5bda",
+          "name": "Annual_Income",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "value": "$Annual_Income",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your Annual Income (e.g. USD 100000) :"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cd54a312-a791-4b16-828f-2312626a68d7",
+          "name": "Sum_Insured",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "value": "$Sum_Insured",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How much Sum Insured do you want (e.g. USD 1000000)  ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "76cc526d-0706-4603-ba0c-ba777787cd1a",
+          "name": "Premium",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "value": "$Premium",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How much premium do you want  (e.g. USD 10000) ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yup"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
